@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yuxin
-- 👀 I’m interested in ...
+- 👀 I’m interested in travel and delicious food
 - 🌱 I’m currently learning Data Visualization
 - 💞️ I’m looking to collaborate on Data Visualization
 - 📫 How to reach me 
